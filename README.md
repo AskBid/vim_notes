@@ -1,3 +1,4 @@
 # vim_notes
-personal notes on Vim use
+personal notes on Vim use.
+
 Check Wiki
